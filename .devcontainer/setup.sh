@@ -24,5 +24,5 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 \. "$HOME/.nvm/nvm.sh"
 nvm install 24
 
-echo "Version instalada:"
-node -v
+npm install @mysten/sui.js @mysten/wallet-kit
+npm upgrade @mysten/sui.js @mysten/wallet-kit
