@@ -9,7 +9,9 @@
     "vscode": {
       "extensions": [
         "mysten.move",
-        "mysten.prettier-move"
+        "mysten.prettier-move",
+        "dbaeumer.vscode-eslint",
+        "rvest.vs-code-prettier-eslint"
       ]
     }
   }
